@@ -1,7 +1,6 @@
 import java.util.*;
-
+//written by daniel reynolds 3/31/2019
 public class Main {
-    //code by daniel reynolds 3/31/2019
 
     //initializes gameBoard
 

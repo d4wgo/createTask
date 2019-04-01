@@ -1,3 +1,4 @@
+//written by daniel reynolds 3/31/2019
 public class Game {
     private String[][] gameBoard = new String[6][7];
     public Game(){ }
